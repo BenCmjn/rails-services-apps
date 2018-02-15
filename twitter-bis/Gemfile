@@ -15,6 +15,7 @@ gem 'jbuilder'
 #BYME#
 gem 'bootstrap', '~>4.0.0'
 gem 'dotenv-rails'
+gem 'twitter', '~> 6.0'
 
 group :development, :test do
   gem 'sqlite3'
